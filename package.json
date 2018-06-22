@@ -1,0 +1,18 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "a unit test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "js"
+  ],
+  "author": "dennis moyo",
+  "license": "ISC",
+  "dependencies": {
+    "karma": "^2.0.2"
+  }
+}
